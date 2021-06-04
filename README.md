@@ -12,15 +12,4 @@
 
 * Java SDK
 * NetBeans IDE
-
-### Cloning an Existing Repository ( Clone with HTTPS )
-
-```
-git clone https://github.com/ismailtasdelen/Java-Object-Oriented-Programming-Courses-Example.git
-```
-
-### Cloning an Existing Repository ( Clone with SSH )
-
-```
-git clone git@github.com:ismailtasdelen/Java-Object-Oriented-Programming-Courses-Example.git
 ```
